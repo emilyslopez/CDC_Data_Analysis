@@ -17,3 +17,11 @@ decreased chronic illnesses?” We use the following CDC datasets to perform our
 * CDC: Daily Census-Tract PM2.5 Concentrations (https://data.cdc.gov/Environmental-Health-Toxicology/Daily-Census-Tract-Level-PM2-5-Concentrations-2011/fcqm-xrf4)
 
 We also referred to ELI Database of State IAQ Laws2 which gave us access to the various state policies that have been implemented to improve indoor air quality. (https://www.eli.org/buildings/database-state-indoor-air-quality-laws)
+
+## In this folder:
+102 Final Code and 102 Final Report: Jupyter Notebook and written report of our analysis, which include:
+<p/> 1. Data Overview
+<p/> 2. EDA: Exploratory data analysis that describes key features of the datasets
+<p/> 3. 2 Research Questions we explore in this project
+<p/> 4. Inference and Decisions:  Applying Causal Inference and Multiple Hypothesis Testing to answer our research questions
+<p/> 5. Conclusions that highlight key findings, identify potential next steps, and assess the strengths and limitations of your analysis.
